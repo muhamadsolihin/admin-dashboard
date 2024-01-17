@@ -1,0 +1,16 @@
+.badge {
+    --bs-badge-padding-x: 0.9em;
+    --bs-badge-padding-y: 0.7em;
+    --bs-badge-font-size: 0.65em;
+    font-weight: 600;
+}
+
+.text-bg-danger {
+    color: $primary !important;
+    background-color: $pearl !important;
+}
+
+.text-bg-success {
+    color: $success !important;
+    background-color: $snowy-mint !important;
+}

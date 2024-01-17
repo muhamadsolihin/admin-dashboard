@@ -1,0 +1,21 @@
+.el-table {
+    border-radius: 15px;
+    border: 2px solid #f5f8fa
+}
+
+.el-table th.el-table__cell {
+    background-color: #f5f8fa;
+    padding: 20px 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table tr:nth-child(even) {
+    background-color: #f5f8fa;
+}
+
+table th {
+    background-color: #f5f8fa;
+}

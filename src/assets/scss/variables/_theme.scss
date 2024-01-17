@@ -1,0 +1,14 @@
+$primary: #E60023;
+$primary-light: #FFF1EA;
+$success: #29B12F;
+$green: #29B12F;
+$pearl: #ffedef;
+$snowy-mint: #D7FFD8;
+@import "bootstrap";
+:root {
+    --el-color-primary: #E60023;
+    --el-color-green: #29B12F;
+    --el-popper-border-radius: 14px;
+    --el-border-radius-base: 14px;
+    --el-popover-border-radius: 14px;
+}

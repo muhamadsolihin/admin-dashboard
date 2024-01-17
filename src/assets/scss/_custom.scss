@@ -1,0 +1,52 @@
+.card {
+    border: 2px solid #f1f5ff;
+    border-radius: 20px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+p {
+    word-break: break-word;
+}
+
+.form-input {
+    height: 3.1em;
+    background: #f5f8fa;
+    border: 1px solid #e4e8f4;
+    border-radius: 7px;
+}
+
+.input-with-prepend {
+    border-top-right-radius: 7px !important;
+    border-bottom-right-radius: 7px !important;
+}
+
+.textarea {
+    height: 8.125em;
+    resize: none;
+    background: #f5f8fa;
+    border: 1px solid #e4e8f4;
+    border-radius: 7px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.pointer:hover {
+    opacity: 0.8;
+}
